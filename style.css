@@ -1,0 +1,27 @@
+h1 {
+    color:#2130b8; /* 文字的顏色 */
+    font-size: 50px;
+    width: 200px;
+    height: 20px;
+}
+
+h2 {
+    color: rgb(72, 28, 129);
+    font-size: 20px;
+}
+.title{
+    color: blue;
+    font-size: 32px;
+}
+#news {
+    color: #864646;
+    font-size: 20px;
+}
+.text-lg {
+    font-size: 60px;
+}
+h3:hover {
+    color: red;
+    background: yellow;
+}
+
